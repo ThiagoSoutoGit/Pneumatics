@@ -8,3 +8,5 @@ All files used to produce the report Robotic Manipulator Design.
 * Proteus Simulation
 * Solidworks Model
 * Arduino Program
+
+Thiago Souto
