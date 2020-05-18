@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {I}INTRODUCTION}{3}{section.1}%
+\contentsline {section}{\numberline {II}Methodology}{3}{section.2}%
+\contentsline {subsection}{\numberline {\mbox {II-A}}Pneumatics}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {\mbox {II-B}}Actuation}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {\mbox {II-C}}Electronic system}{3}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}1}LCD display}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}2}Ultrasonic sensors}{4}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {\mbox {II-D}}Microcontrollers}{4}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {\mbox {II-D}1}Control Methodology}{4}{subsubsection.2.4.1}%
+\contentsline {section}{\numberline {III}Design Process}{4}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Electronic simulation}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-A}1}Proteus}{5}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}Mechanical Simulation}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {IV}Results}{5}{section.4}%
+\contentsline {section}{\numberline {V}Discussion and Conclusions}{6}{section.5}%
+\contentsline {section}{References}{8}{section*.3}%
+\contentsline {section}{Appendix}{9}{section*.4}%
